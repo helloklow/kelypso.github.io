@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why I Chose to Learn Software Development"
-date:       2019-01-15 02:22:18 +0000
+date:       2019-01-14 21:22:19 -0500
 permalink:  why_i_chose_to_learn_software_development
 ---
 
 
-It was a sweltering summer day sometime in July of 2018. I was sitting at my desk in Ojai, a groovy little gem of a town that's nestled amongst the orange and avocado groves of Ventura County, California. I was trying to find something, *anything* to work on to preoccupy my mind from the unsettling boredom I was trapped in. I briefly caught myself daydreaming of the days when I worked from home for Polaris-Danforth Corporation. Man, it sure was awesome to be able to squeeze and snuggle with my cat whenever I was having a stressful work day...
+It was a sweltering summer day sometime in July of 2018. I was sitting at my desk in Ojai, a groovy little gem of a town that's nestled amongst the orange and avocado groves of Ventura County, California. I was trying to find something, *anything* to work on to preoccupy my mind from the unsettling boredom I was trapped in. I briefly caught myself daydreaming of the days when I worked from home for Polaris-Danforth Corporation. Man, it sure was awesome to be able to squeeze and snuggle with my cat whenever I was having a stressful - or downright boring - work day...
 
 My curiosity piqued. What was it that really made that position so fulfilling? Polaris-Danforth is a small group of healthcare consultants who customize electronic medical records and build interfaces between those record systems and the medical equipment that's strapped to your body. I began as an administrative assistant and quickly started learning MEL. As I grew into a junior consultant, I began taking on small coding assignments and troubleshooting projects. The more I learned, the more rewarding the work became. Sure, I might spend half a day debugging one form, but the fulfillment when that one problem was finally solved brought such pure elation that it's nearly incomparable. It gave me a sense of pride and kept me humble at the same time.
 
