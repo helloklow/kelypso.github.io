@@ -1,11 +1,11 @@
 # Site settings
 author: Kelsey Low
-title: 
+title: hello k_low
 header-img: img/home-bg.png
 email: kklowlow@gmail.com
 copyright_name: Kelsey Low
 description: > # this means to ignore newlines until "baseurl:"
-  
+  techie by day, monkey after hours
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kelypso
