@@ -17,7 +17,7 @@ The .sort method works by accepting two parameters, which represent the elements
 
 ```
 ["Penny", "Poki", "Hubble"].sort { |a, b| a <=> b } 
-*# => ["Hubble", "Penny", "Poki"]*
+# => ["Hubble", "Penny", "Poki"]
 ```
 
 
@@ -29,5 +29,5 @@ The .sort_by method works by creating a kind of invisible hash. When it's called
 
 ```
 ["Penny", "Poki", "Hubble"].sort_by { |pet| pet.name } 
-*# => ["Hubble", "Penny", "Poki"]*
+# => ["Hubble", "Penny", "Poki"]
 ```
