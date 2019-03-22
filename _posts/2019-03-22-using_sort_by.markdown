@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using .sort_by"
-date:       2019-03-22 18:16:45 +0000
+date:       2019-03-22 14:16:46 -0400
 permalink:  using_sort_by
 ---
 
@@ -16,7 +16,8 @@ permalink:  using_sort_by
 The .sort method works by accepting two parameters, which represent the elements being compared - one parameter for the initial element and the other parameter for the element to compare to. If no parameters are given, .sort implicity evokes the comparison operator to organize the collection from lowest to highest. This method is excellent for simple alphanumeric sorting, however if you're looking to sort based on attribute, it's time to check out .sort_by.
 
 ```
-["Penny", "Poki", "Hubble"].sort { |a, b| a <=> b } *# => ["Hubble", "Penny", "Poki"]*
+["Penny", "Poki", "Hubble"].sort { |a, b| a <=> b } 
+*# => ["Hubble", "Penny", "Poki"]*
 ```
 
 
@@ -27,5 +28,6 @@ The .sort method works by accepting two parameters, which represent the elements
 The .sort_by method works by creating a kind of invisible hash. When it's called on an array, it assigns each element a "sort key". Next, .sort_by checks each element against our block, sorts the keys accordingly, and then maps the keys back to their initial values. The return result will be a sorted array. This method is much more dynamic than .sort, with the ability to handle extensive collections and multiple attributes. 
 
 ```
-["Penny", "Poki", "Hubble"].sort_by { |pet| pet.name } *# => ["Hubble", "Penny", "Poki"]*
+["Penny", "Poki", "Hubble"].sort_by { |pet| pet.name } 
+*# => ["Hubble", "Penny", "Poki"]*
 ```
