@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Off the Rails - Diving into the JavaScript Project "
-date:       2019-12-18 06:43:23 +0000
+date:       2019-12-18 01:43:24 -0500
 permalink:  off_the_rails_-_diving_into_the_javascript_project
 ---
 
